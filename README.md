@@ -71,7 +71,6 @@ The project is structured into the following packages:
 
 ## Video Explanation
 
-Remember to also create a video explanation as per the exercise instructions, demonstrating the application, explaining the code, and justifying your design choices.
-
+[**[Video Guia](https://youtu.be/pIlg0PE6KmY)**]
 ---
 This `README.md` provides a comprehensive overview of the Number Guessing Game application.
